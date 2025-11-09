@@ -1,6 +1,6 @@
 # STEM3 Course Schedule
 
-## Donnerstag, 13. November 2025
+## Thursday, 13. November 2025
 
 **Start:** 14:00
 **End:** 17:30
@@ -18,7 +18,7 @@
 
 ---
 
-## Freitag, 14. November 2025
+## Friday, 14. November 2025
 
 **Start:** 9:00
 **End:** 17:00
@@ -34,7 +34,7 @@
 
 ---
 
-## Montag, 17. November 2025
+## Monday, 17. November 2025
 
 **Start:** 9:00
 **End:** 17:00
@@ -51,7 +51,7 @@
 
 ---
 
-## Dienstag, 18. November 2025
+## Tuesday, 18. November 2025
 
 **Start:** 9:00
 **End:** 17:00
@@ -66,7 +66,7 @@
 
 ---
 
-## Mittwoch, 19. November 2025
+## Wednesday, 19. November 2025
 
 **Start:** 9:00
 **End:** 13:00
@@ -81,7 +81,7 @@
 
 ---
 
-## Donnerstag, 20. November 2025
+## Thursday, 20. November 2025
 
 **Start:** 9:00
 **End:** 17:00
@@ -96,7 +96,7 @@
 
 ---
 
-## Freitag, 21. November 2025
+## Friday, 21. November 2025
 
 **Start:** 9:00
 **End:** 17:00
@@ -111,7 +111,7 @@
 
 ---
 
-## Montag, 24. November 2025
+## Monday, 24. November 2025
 
 **Start:** 9:00
 **End:** 17:00
@@ -126,7 +126,7 @@
 
 ---
 
-## Dienstag, 25. November 2025
+## Tuesday, 25. November 2025
 
 **Start:** 9:00
 **End:** 17:00
@@ -141,7 +141,7 @@
 
 ---
 
-## Mittwoch, 26. November 2025
+## Wednesday, 26. November 2025
 
 **Start:** 9:00
 **End:** 17:00
@@ -159,7 +159,7 @@
 
 ---
 
-## Donnerstag, 27. November 2025
+## Thursday, 27. November 2025
 
 **Start:** 14:00
 **End:** 17:00
@@ -175,7 +175,7 @@
 
 ---
 
-## Freitag, 28. November 2025
+## Friday, 28. November 2025
 
 **Start:** 14:00
 **End:** 17:00
@@ -190,7 +190,7 @@
 
 ---
 
-## Montag, 1. Dezember 2025
+## Monday, 1. December 2025
 
 **Start:** 9:00  
 **End:** 17:00
@@ -205,7 +205,7 @@
 
 ---
 
-## Dienstag, 2. Dezember 2025
+## Tuesday, 2. December 2025
 
 **Start:** 9:00  
 **End:** 17:00
@@ -222,7 +222,7 @@
 
 ---
 
-## Mittwoch, 3. Dezember 2025
+## Wednesday, 3. December 2025
 
 **Start:** 9:00  
 **End:** 11:00
