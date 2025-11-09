@@ -1,0 +1,67 @@
+site_name: STEM3 course page
+site_description: Resources for STEM3 course in GMB at HFU
+site_url: https://HFU-GMB-STEM.github.io/STEM3-course/
+
+theme:
+  name: "material"
+  logo: ./images/logo.png
+  palette:
+    # Light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: green
+      accent: light blue
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+
+    # Dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: green
+      accent: teal
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+  features:
+    - navigation.instant
+    - navigation.sections
+    - navigation.top
+    - navigation.prune
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.path
+    - toc.integrate
+    - content.code.copy
+
+
+
+# Extensions
+markdown_extensions:
+  - footnotes
+  - attr_list
+  - md_in_html
+  - pymdownx.blocks.caption
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - toc:
+      permalink: true
+
+plugins:
+  - search
+  - mkdocs-video:
+      is_video: True
+      video_autoplay: False
+
+
+extra_javascript:
+  - javascripts/mathjax.js
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+  - https://unpkg.com/mermaid/dist/mermaid.min.js

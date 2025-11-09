@@ -8,19 +8,23 @@ The ESP32 is a powerful microcontroller with built-in touch capabilities, making
 
 1. ESP32 Development Board
 
-   ![ESP32 board](images/ESP32-WROOM-32_board.jpeg)
+    ![ESP32 board](./images/ESP32-WROOM-32_board.jpeg)
+
 2. USB Cable (for programming and power)
 
-    ![cable](images/usb-cable.jpeg)
+    ![cable](./images/usb-cable.jpeg)
+
 3. Breadboard and wires
 
-    ![wires](images/wires.png)![breadboard](images/breadboard.png)
+    ![wires](./images/wires.png)![breadboard](./images/breadboard.png)
+
 4. Input components (we simply use wires as touch sensors)
 
-    ![touch wires](images/touch-wires.png)
+    ![touch wires](./images/touch-wires.png)
+
 5. Output components (we use LEDs and therefore we need resistors)
 
-    ![leds and resistors](images/leds-resistors.png)
+    ![leds and resistors](./images/leds-resistors.png)
 
 6. Computer for programming the ESP32 and applications
 
@@ -38,7 +42,7 @@ Check if your board has a built-in USB to Serial converter. Most ESP32 boards us
 
 Here is an image of the CP210x chip:
 
-![chip usb to serial](images/chip-serial.jpeg)
+![chip usb to serial](./images/chip-serial.jpeg)
 
 You can download the USB to Serial drivers from the Silicon Labs website: [Silicon Labs USB to UART Bridge VCP Drivers](https://www.silabs.com/software-and-tools/usb-to-uart-bridge-vcp-drivers?tab=downloads). Choose the appropriate driver for your operating system (Windows, macOS, or Linux) and follow the installation instructions provided on the website.
 
@@ -63,7 +67,7 @@ After installing the ESP32 board package, use the "Select board" dropdown to cho
 
 Your IDE should now look similar to this:
 
-![arduino-ide-esp32](images/arduino-ide-esp32.png)
+![arduino-ide-esp32](./images/arduino-ide-esp32.png)
 
 It shows the selected board "ESP32 Dev Module" (blue rectangle) and the port "/dev/cu.SLAB_USBtoUART" (green rectangle; this may vary depending on your system). In the center you see the code editor where you can write your sketches. On the top left you find buttons (orange rectangle) to verify (check mark) and upload (right arrow) your code to the ESP32.
 
