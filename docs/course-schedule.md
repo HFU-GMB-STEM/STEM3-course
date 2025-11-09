@@ -43,11 +43,10 @@
 
 - Fantasy device (presentation)
 - Real ESP32 devices
-- [Hello world ESP32](./tutorials/ESP32-01-FirstSteps.md)
 
 **Details:**
 
-- tbd
+- [Hello world ESP32](./tutorials/ESP32-01-FirstSteps.md)
 
 ---
 
@@ -58,11 +57,12 @@
 
 **Content:**
 
-- First task with ESP32
+- First tasks with ESP32
 
 **Details:**
 
-- tbd
+- [Output control with ESP32](./tutorials/ESP32-02-OutputControls.md)
+- [Touch input with ESP32](./tutorials/ESP32-03-TouchInput.md)
 
 ---
 

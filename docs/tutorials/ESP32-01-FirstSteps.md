@@ -14,19 +14,7 @@ The ESP32 is a powerful microcontroller with built-in touch capabilities, making
 
     ![cable](./images/usb-cable.jpeg)
 
-3. Breadboard and wires
-
-    ![wires](./images/wires.png)![breadboard](./images/breadboard.png)
-
-4. Input components (we simply use wires as touch sensors)
-
-    ![touch wires](./images/touch-wires.png)
-
-5. Output components (we use LEDs and therefore we need resistors)
-
-    ![leds and resistors](./images/leds-resistors.png)
-
-6. Computer for programming the ESP32 and applications
+3. Computer for programming the ESP32 and applications
 
 ## Setting Up the Development Environment
 
@@ -76,11 +64,9 @@ It shows the selected board "ESP32 Dev Module" (blue rectangle) and the port "/d
 Edit the code editor to contain the following code:
 
 ```cpp
-int ledPin = 2; // the pin of the on-board LED
+int ledPin = 1; // the pin of the on-board LED
 
 void setup() {
-  Serial.begin(115200); // use serial connection to debug
-  Serial.println("Setup"); // to check in serial monitor
   pinMode(ledPin, OUTPUT); // set pin 2 as output
 }
 
@@ -89,10 +75,15 @@ void loop() {
   delay(500); // wait half a second
   digitalWrite(ledPin, LOW); // set pin to low voltag (OFF)
   delay(500); // wait again
-  Serial.println("I am alive"); // to check in serial monitor
 }
 ```
 
-This code will blink the on-board LED of the ESP32 every second. But first we need to verify and then upload the code to the ESP32. Directly after uploading the on-board LED should start blinking. You can also open the Serial Monitor (magnifying glass icon on the top right) to see the debug messages from the ESP32.
+This code will blink the on-board LED of the ESP32 every second. But first we need to verify and then upload the code to the ESP32. Directly after uploading the on-board LED should start blinking.
 
 Now you have successfully set up your development environment and programmed your ESP32 to blink an LED! You can now proceed to explore more complex projects and functionalities of the ESP32.
+
+## Control questions
+
+- How can you modify the code to make the LED blink faster or slower?
+- What is the purpose of the `Serial.begin()` function in the setup?
+- What happens if you unplug the ESP32 while the code is running? What do you observe when you plug it back in?
