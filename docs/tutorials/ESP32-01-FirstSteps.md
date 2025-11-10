@@ -49,15 +49,18 @@ If there are already URLs in the field, separate them with a comma.
 5. Open the Boards Manager by going to `Tools` > `Board` > `Board Manager`.
 6. In the Boards Manager, search for "ESP32" and install the "ESP32 by Espressif Systems" package. When writing this guide, the latest version is 3.3.3.
 
-### Selecting the ESP32 Board
+### Selecting the ESP32 Board and Port
 
-After installing the ESP32 board package, use the "Select board" dropdown to choose your specific ESP32 board model from the list. For the ESP32-Wroom-32, select "ESP32 Dev Board".
+After installing the ESP32 board package, use the "Select board" dropdown to choose your specific ESP32 board model from the list. For the ESP32-Wroom-32, select "ESP32 Dev Board". Select the serial port on the right hand side.
 
-Your IDE should now look similar to this:
+Your IDE (MAC) should now look similar to this:
 
 ![arduino-ide-esp32](./images/arduino-ide-esp32.png)
 
 It shows the selected board "ESP32 Dev Module" (blue rectangle) and the port "/dev/cu.SLAB_USBtoUART" (green rectangle; this may vary depending on your system). In the center you see the code editor where you can write your sketches. On the top left you find buttons (orange rectangle) to verify (check mark) and upload (right arrow) your code to the ESP32.
+
+Your IDE (Windows) should look like:
+![arduino-ide-esp32](./images/arduino-ide-esp32_win.png)
 
 ### Writing Your First ESP32 Sketch: Blink the on-board LED
 
@@ -67,7 +70,7 @@ Edit the code editor to contain the following code:
 int ledPin = 1; // the pin of the on-board LED
 
 void setup() {
-  pinMode(ledPin, OUTPUT); // set pin 2 as output
+  pinMode(ledPin, OUTPUT); // set pin 1 as output
 }
 
 void loop() {
@@ -85,5 +88,4 @@ Now you have successfully set up your development environment and programmed you
 ## Control questions
 
 - How can you modify the code to make the LED blink faster or slower?
-- What is the purpose of the `Serial.begin()` function in the setup?
 - What happens if you unplug the ESP32 while the code is running? What do you observe when you plug it back in?
