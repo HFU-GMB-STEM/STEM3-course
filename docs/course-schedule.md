@@ -73,11 +73,11 @@
 
 **Content:**
 
-- Second ESP32 task, output
+- Second ESP32 task
 
 **Details:**
 
-- tbd
+- [Controlling an LED with touch input](./tutorials/ESP32-04-TouchLED.md)]
 
 ---
 
@@ -88,7 +88,7 @@
 
 **Content:**
 
-- Third ESP32 task, input+output
+- Further experiments with ESP32
 
 **Details:**
 
@@ -103,11 +103,11 @@
 
 **Content:**
 
-- Fourth ESP32 task, mini project camera booth (OpenCV)
+- Combining ESP32 with computer, mini project camera booth (OpenCV)
 
 **Details:**
 
-- tbd
+- [Touch input to capture images](./tutorials/ESP32-05-TouchCapture.md)
 
 ---
 
