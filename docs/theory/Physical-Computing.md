@@ -1,9 +1,9 @@
 # What is Physical Computing?
 
-* creates a connection between the physical world and the virtual world of a computer.
-* the flow between physical and virtual world is enabled by the process of **transduction**, the conversion of one form of energy into another.
-* focus on interactive systems by fusing software and hardware.
-
+* Creates a connection between the physical world and the virtual world of a computer.
+* The flow between physical and virtual world is enabled by the process of **transduction**, the conversion of one form of energy into another.
+* Focus on interactive systems by fusing software and hardware.
+  
 For creating interactive systems in your projects you'll need to use transducers to convert between the physical energy and electrical energy used by the computer.
 A familiar transducer is a microphone: pressure waves are transformed to electrical voltage.
 Another familiar transducer are speakers: electrical voltage are transformed to pressure waves.
@@ -15,10 +15,10 @@ With physical computing you'll have the opportunity to express and or enhance yo
 ## What products result from the application of physical computing?
 
 * Wearables
-* Smart home applications
-* Intelligent toys
-* Sensor based irrigation systems
-* Mood lamps
+* Smart Home Applications
+* Intelligent Toys
+* Sensor Based Irrigation Systems
+* Mood Lamps
 ...
 
 ### Here are some examples: 

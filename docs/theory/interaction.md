@@ -9,13 +9,14 @@ A physical project can be broken into down the same three stages: listening, thi
 * Output
 
 Signals here can be 
-* analog 
-* digital
+
+* Analog 
+* Digital
 
 ## Interaction 
 
-* serial 
-* parallel
+* Serial 
+* Parallel
 
 ## Input
 
@@ -72,8 +73,9 @@ Notes:
 
 ## Processing
 Input and output are the physical parts of physical computing. The third part is the programming part: 
-* computer reads input.
-* makes decisions based on the changes it reads.
-* activate ouputs or send messages to other computers.
+
+* Computer reads input.
+* Makes decisions based on the changes it reads.
+* Activate outputs or send messages to other computers.
 
 
