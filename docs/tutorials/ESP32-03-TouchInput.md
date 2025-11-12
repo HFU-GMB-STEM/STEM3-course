@@ -42,3 +42,10 @@ void onTouch() {
 First, verify that the code is correct by clicking the "Verify" button (check mark) in the Arduino IDE. If there are no errors, click the "Upload" button (right arrow) to upload the code to the ESP32. You should see the update process logged in the IDE. After the upload is complete, open the Serial Monitor (magnifying glass icon on the top right) to see the debug messages from the ESP32.
 
 When you touch the wire connected to the touch-capable GPIO pin, you should see "Touch detected!" printed in the Serial Monitor. You have successfully used touch input with the ESP32!
+
+## Control Questions
+
+- What is the purpose of the `Serial.begin()` function in the setup?
+- How can you change the touch pin to use a different GPIO pin?
+- What happens if you change the threshold value in `touchSetDefaultThreshold()`?
+- How can you modify the code to perform a different action when a touch is detected?
