@@ -47,7 +47,7 @@ More powerful: Microprocessor
 
 * Runs an operating system. 
 
-*Cost-effective and fully-fledged personal computer.
+* Cost-effective and fully-fledged personal computer.
 
 We will use it also in class embedded in a small driving robot.
 
@@ -63,4 +63,12 @@ Every microcontroller has different configurations for its pins, and often one p
 
 ![ESP32 Devboard Pins](./images/esp32_devb_pins.jpg)
 
+### ESP32 Pin Layers
+
+| Pin Layer | Description | What It Refers To |
+|---|---|---|
+| **ESP32-WROOM-32 Module pins** | The **38 physical pads** on the **metal-cased module itself** | These are directly connected to the ESP32 chip inside the module |
+| **Development board pins** | The **header pins** (e.g., “GPIO 21”, “VIN”, “3V3”) on your **DevKit** | These are **mapped** to the module pins, sometimes with naming differences or extra components in between |
+
 You can find more details on this [page.](https://itp.nyu.edu/physcomp/resources/microcontroller-pin-functions/){target = "_blank"}
+
