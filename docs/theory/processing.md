@@ -21,12 +21,12 @@ In physical computing very often a microcontroller is used.
 ![ESP32 module](./images/esp32_pin.png)  
 
 
-
 ![ESP32 module](../tutorials/images/ESP32-WROOM-32_board.jpeg)  
 
 
+This is a microcontroller with integrated Wi‑Fi and Bluetooth, designed for IoT and embedded applications. (Used also in this class)
 
-Microcontroller with integrated Wi‑Fi and Bluetooth, designed for IoT and embedded applications. (Used also in this class)
+Here is a tutorial page dedicated to [ESP32.](https://randomnerdtutorials.com/getting-started-with-esp32/)
 
 ### Arduino Uno (development board)
 ![Arduino Uno](./images/arduino_devboard.jpg)  
@@ -68,7 +68,9 @@ Every microcontroller has different configurations for its pins, and often one p
 | Pin Layer | Description | What It Refers To |
 |---|---|---|
 | **ESP32-WROOM-32 Module pins** | The **38 physical pads** on the **metal-cased module itself** | These are directly connected to the ESP32 chip inside the module |
-| **Development board pins** | The **header pins** (e.g., “GPIO 21”, “VIN”, “3V3”) on your **DevKit** | These are **mapped** to the module pins, sometimes with naming differences or extra components in between |
+| **Development board pins** | The **header pins** (e.g., “GPIO 21”, “VIN”, “3V3”) on your **DevKit** | These are **mapped** to the module pins, sometimes with naming differences or extra components in between because these are functional pin names (what they do) |
 
-You can find more details on this [page.](https://itp.nyu.edu/physcomp/resources/microcontroller-pin-functions/){target = "_blank"}
+A reference to ESP32 pins you can find on this [page.](https://randomnerdtutorials.com/esp32-pinout-reference-gpios/)
+
+You can find more details generally on pins on this [page.](https://itp.nyu.edu/physcomp/resources/microcontroller-pin-functions/){target = "_blank"}
 
