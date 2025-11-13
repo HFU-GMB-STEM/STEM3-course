@@ -10,7 +10,7 @@ The course follows the for GMB usual structure of full day workshops and a high 
 
 ## Grading
 
-Grading is based on **participation in workshops** (40%), **completion and quality of assignments** (30%), and the **final project** (30%). Students are expected to actively engage in the learning process, collaborate with peers, and demonstrate their understanding of physical computing and image processing concepts through practical applications. The lecturers can provide feedback about grading and support throughout the course to help students succeed in their projects.
+Grading is based on **participation in workshops** (35%), **completion and quality of assignments** (30%), and the **final project** (35%). Students are expected to actively engage in the learning process, collaborate with peers, and demonstrate their understanding of physical computing and image processing concepts through practical applications. The lecturers can provide feedback about grading and support throughout the course to help students succeed in their projects.
 
 ## Prerequisites
 
