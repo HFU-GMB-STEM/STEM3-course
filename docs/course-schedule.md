@@ -1,15 +1,15 @@
 # STEM3 Course Schedule
 
-## Thursday, 13. November 2025
+## **Thu**, Nov 13th 2025
 
 **Start:** 14:00
 **End:** 17:30
 
 **Content:**
 
-- Expectation/Experience
+- [Expectation/Experience](./administration/experience.md)
 - Schedule and Grading
-- Theory
+- [Theory](./theory/Physical-Computing.md)
 - Visualization task
 
 **Details:**
@@ -18,7 +18,7 @@
 
 ---
 
-## Friday, 14. November 2025
+## **Fri**, Nov 14th 2025
 
 **Start:** 9:00
 **End:** 17:00
@@ -34,7 +34,7 @@
 
 ---
 
-## Monday, 17. November 2025
+## **Mon**, Nov 17th 2025
 
 **Start:** 9:00
 **End:** 17:00
@@ -50,7 +50,7 @@
 
 ---
 
-## Tuesday, 18. November 2025
+## **Tue**, Nov 18th 2025
 
 **Start:** 9:00
 **End:** 17:00
@@ -66,7 +66,7 @@
 
 ---
 
-## Wednesday, 19. November 2025
+## **Wed**, Nov 19th 2025
 
 **Start:** 9:00
 **End:** 13:00
@@ -81,7 +81,7 @@
 
 ---
 
-## Thursday, 20. November 2025
+## **Thu**, Nov 20th 2025
 
 **Start:** 9:00
 **End:** 17:00
@@ -96,7 +96,7 @@
 
 ---
 
-## Friday, 21. November 2025
+## **Fri**, Nov 21st 2025
 
 **Start:** 9:00
 **End:** 17:00
@@ -111,7 +111,7 @@
 
 ---
 
-## Monday, 24. November 2025
+## **Mon**, Nov 24th 2025
 
 **Start:** 9:00
 **End:** 17:00
@@ -126,7 +126,7 @@
 
 ---
 
-## Tuesday, 25. November 2025
+## **Tue**, Nov 25th 2025
 
 **Start:** 9:00
 **End:** 17:00
@@ -141,7 +141,7 @@
 
 ---
 
-## Wednesday, 26. November 2025
+## **Wed**, Nov 26th 2025
 
 **Start:** 9:00
 **End:** 17:00
@@ -159,7 +159,7 @@
 
 ---
 
-## Thursday, 27. November 2025
+## **Thu**, Nov 27th 2025
 
 **Start:** 14:00
 **End:** 17:00
@@ -175,7 +175,7 @@
 
 ---
 
-## Friday, 28. November 2025
+## **Fri**, Nov 28th 2025
 
 **Start:** 14:00
 **End:** 17:00
@@ -190,7 +190,7 @@
 
 ---
 
-## Monday, 1. December 2025
+## **Mon**, Dec 1st 2025
 
 **Start:** 9:00  
 **End:** 17:00
@@ -205,7 +205,7 @@
 
 ---
 
-## Tuesday, 2. December 2025
+## **Tue**, Dec 2nd 2025
 
 **Start:** 9:00  
 **End:** 17:00
@@ -222,7 +222,7 @@
 
 ---
 
-## Wednesday, 3. December 2025
+## **Wed**, Dec 3rd 2025
 
 **Start:** 9:00  
 **End:** 11:00
