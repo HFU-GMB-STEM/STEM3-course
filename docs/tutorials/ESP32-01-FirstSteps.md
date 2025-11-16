@@ -51,8 +51,9 @@ If there are already URLs in the field, separate them with a comma.
 
 ### Selecting the ESP32 Board and Port
 
-After installing the ESP32 board package, use the "Select board" dropdown to choose your specific ESP32 board model from the list. 
-1. For the ESP32-Wroom-32, select "ESP32 Dev Board". 
+After installing the ESP32 board package, use the "Select board" dropdown to choose your specific ESP32 board model from the list.
+
+1. For the ESP32-Wroom-32, select "ESP32 Dev Board".
 2. Select the serial port on the right hand side.
 
 On Windows it should look like:
@@ -65,12 +66,11 @@ Your IDE (MAC) after selection should now look similar to this:
 
 It shows the selected board "ESP32 Dev Module" (blue rectangle) and the port "/dev/cu.SLAB_USBtoUART" (green rectangle; this may vary depending on your system). In the center you see the code editor where you can write your sketches. On the top left you find buttons (orange rectangle) to verify (check mark) and upload (right arrow) your code to the ESP32.
 
-
 Your IDE (Windows) after selection should look like:
 
 ![arduino-ide-esp32_win](./images/arduino-ide-esp32_win.png)
 
-
+Eventually, it is necessary to set the [Baud](https://en.wikipedia.org/wiki/Baud) rate to 115200. You can do this by going to `Tools` > `Upload Speed` and selecting `115200`.
 
 ### Writing Your First ESP32 Sketch: Blink the on-board LED
 
@@ -94,7 +94,6 @@ void loop() {
 This code will blink the on-board LED of the ESP32 every second. But first we need to verify and then upload the code to the ESP32. Directly after uploading the on-board LED should start blinking.
 
 Now you have successfully set up your development environment and programmed your ESP32 to blink an LED! You can now proceed to explore more complex projects and functionalities of the ESP32.
-
 
 ## Control questions
 
