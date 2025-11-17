@@ -6,6 +6,7 @@ What Is GoPiGo?
 - Designed for learning robotics, sensors, and programming with Python.
 
 Hardware Overview
+
 - Base chassis with motors, wheels, and frame.
 - Raspberry Pi mounted on top (user-supplied).
 - GoPiGo control board that connects to the Pi GPIO header.
