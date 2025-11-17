@@ -38,13 +38,12 @@ You can download the USB to Serial drivers from the Silicon Labs website: [Silic
 
 1. Open the Arduino IDE.
 2. Go to `File` > `Preferences` (on macOS, `Arduino` > `Settings`).
-3. In the "Additional Boards Manager URLs" field, add the following URL:
+3. In the "Additional Boards Manager URLs" field, add the following URL (if there are already URLs in the field, separate them with a comma):
 
-```plaintext
-https://dl.espressif.com/dl/package_esp32_index.json
-```
+    ```plaintext
+    https://dl.espressif.com/dl/package_esp32_index.json
+    ```
 
-If there are already URLs in the field, separate them with a comma.
 4. Click "OK" to close the Preferences window.
 5. Open the Boards Manager by going to `Tools` > `Board` > `Board Manager`.
 6. In the Boards Manager, search for "ESP32" and install the "ESP32 by Espressif Systems" package. When writing this guide, the latest version is 3.3.3.
