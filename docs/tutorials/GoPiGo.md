@@ -6,10 +6,10 @@ What Is GoPiGo?
 - Designed for learning robotics, sensors, and programming with Python.
 
 Hardware Overview
-- Base Chassis with motors, wheels, and frame.
+- Base chassis with motors, wheels, and frame.
 - Raspberry Pi mounted on top (user-supplied).
-- GoPiGo Control Board that connects to the Pi GPIO Header.
-- Battery Pack to power motors.
+- GoPiGo control board that connects to the Pi GPIO header.
+- Battery pack to power motors.
 
 
 Simple Python Example
@@ -33,9 +33,10 @@ gpg.stop()
 
 * Connect to that network (no internet access needed).
 
-Once connected, open your browser and go to: http://mygopigo.com/python
+Once connected, open your browser and go to: [ http://mygopigo.com/python](http://mygopigo.com/python){target="_blank"}
 
-You should see the GoPiGo control panel / Jupyter environment.
+You should see the GoPiGo control panel/Jupyter environment.
 
 The instructions for your first project you can find here:
-[Orienteer](https://edu.modrobotics.com/course/view.php?id=16)
+
+[Orienteer](https://edu.modrobotics.com/course/view.php?id=16){target="_blank"}
