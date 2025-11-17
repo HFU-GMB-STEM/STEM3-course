@@ -32,7 +32,7 @@ Here is an image of the CP210x chip:
 
 ![chip usb to serial](./images/chip-serial.jpeg)
 
-You can download the USB to Serial drivers from the Silicon Labs website: [Silicon Labs USB to UART Bridge VCP Drivers](https://www.silabs.com/software-and-tools/usb-to-uart-bridge-vcp-drivers?tab=downloads). Choose the appropriate driver for your operating system (Windows, macOS, or Linux) and follow the installation instructions provided on the website.
+You can download the USB to Serial drivers from the Silicon Labs website: [Silicon Labs USB to UART Bridge VCP Drivers](https://www.silabs.com/software-and-tools/usb-to-uart-bridge-vcp-drivers?tab=downloads). Choose the appropriate driver for your operating system (Windows, macOS, or Linux) and follow the installation instructions provided on the website. Note that under Windows the VCP driver worked better that the universal one.
 
 ### Installing the ESP32 Board Package in Arduino IDE
 
