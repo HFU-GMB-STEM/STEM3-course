@@ -47,6 +47,9 @@
 **Details:**
 
 - [Hello world ESP32](./tutorials/ESP32-01-FirstSteps.md)
+- [Output control with ESP32](./tutorials/ESP32-02-OutputControls.md)
+- [Touch input with ESP32](./tutorials/ESP32-03-TouchInput.md)
+- [Controlling an LED with touch input](./tutorials/ESP32-04-TouchLED.md)
 
 ---
 
@@ -61,8 +64,7 @@
 
 **Details:**
 
-- [Output control with ESP32](./tutorials/ESP32-02-OutputControls.md)
-- [Touch input with ESP32](./tutorials/ESP32-03-TouchInput.md)
+- The first task is to build a controller using the ESP32. It should handle at least five different touch inputs and send signals to a PC via Serial communication. On the PC side, a simple Python program should read the serial input and display the received signals in the console. Implement a small game that uses the touch inputs to control a character or object on the screen.
 
 ---
 
@@ -73,11 +75,11 @@
 
 **Content:**
 
-- Second ESP32 task
+- Working on and demoing first ESP32 task
 
 **Details:**
 
-- [Controlling an LED with touch input](./tutorials/ESP32-04-TouchLED.md)]
+- Highschool students will visit the lab and see the ESP32 projects. Use them for user testing and feedback.
 
 ---
 

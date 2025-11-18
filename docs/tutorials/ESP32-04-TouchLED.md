@@ -23,7 +23,7 @@ Combine the wiring instructions from the previous two tutorials and note down wh
 // Define the GPIO pins where the LED is connected and the one for touch input
 const int ledPin = X; // Change this to the pin you used
 const int touchPin = X; // Change this to the pin you used
-boolean LED_OFF = false; // set the initial value for the LED
+bool LED_OFF = false; // set the initial value for the LED
 
 void setup() {
   Serial.begin(115200); // Initialize serial communication for debugging
