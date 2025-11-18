@@ -60,10 +60,11 @@
 
 **Content:**
 
-- First tasks with ESP32
+- First tasks with ESP32: Combining ESP32 with computer, mini project camera booth (OpenCV)
 
 **Details:**
 
+- [Touch input to capture images](./tutorials/ESP32-05-TouchCapture.md) --> this is an exemplary project for combining ESP32 with computer via Serial communication.
 - The first task is to build a controller using the ESP32. It should handle at least five different touch inputs and send signals to a PC via Serial communication. On the PC side, a simple Python program should read the serial input and display the received signals in the console. Implement a small game that uses the touch inputs to control a character or object on the screen.
 
 ---
@@ -90,11 +91,13 @@
 
 **Content:**
 
-- Further experiments with ESP32
+- Finishing and presenting ESP32 tasks
 
 **Details:**
 
-- tbd
+- If you have not finished the first ESP32 task, use the morning to complete it.
+- In the afternoon (2:15pm), present your ESP32 projects to the class. Each person gets 5 minutes to showcase their work and explain their learning process.
+- **Note that not just the presentations are judged, but also your curiosity about the other projects and your engagement during the presentations.**
 
 ---
 
@@ -105,11 +108,11 @@
 
 **Content:**
 
-- Combining ESP32 with computer, mini project camera booth (OpenCV)
+- Working with OpenCV
 
 **Details:**
 
-- [Touch input to capture images](./tutorials/ESP32-05-TouchCapture.md)
+- tbd
 
 ---
 
