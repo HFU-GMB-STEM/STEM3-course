@@ -108,11 +108,11 @@
 
 **Content:**
 
-- Working with OpenCV
+- Working with Robots
 
 **Details:**
 
-- tbd
+- [GoPiGo](tutorials/GoPiGo.md)
 
 ---
 
@@ -123,11 +123,11 @@
 
 **Content:**
 
-- Robots
+- Working with Robots
 
 **Details:**
 
-- tbd
+- [GoPiGo](tutorials/GoPiGo.md)
 
 ---
 
@@ -139,10 +139,12 @@
 **Content:**
 
 - Theory image processing
+- OpenCV tutorials
 
 **Details:**
 
-- tbd
+- [OpenCV](tutorials/OpenCV.md)
+- Image processing theory: [Slides](./theory/STEM3-ImageProcessingTheory.pdf)
 
 ---
 
@@ -154,9 +156,6 @@
 **Content:**
 
 - OpenCV development
-- Optional:
-  - Robot
-  - Camera+HumanPose
 
 **Details:**
 
@@ -166,13 +165,19 @@
 
 ## **Thu**, Nov 27th 2025
 
-**Start:** 14:00
+**Start:** **14:00**
 **End:** 17:00
 
 **Content:**
 
-- OpenCV
-- ESP32+Camera
+Project planning:
+
+- Build pairs for mini-project, brainstorm ideas, plan implementation
+- Each mini-project should combine:
+  - Camera image processing via OpenCV or using another input sensor (not just button or touch)
+  - ESP32 or Robot interaction as output device
+  - Optional: Human pose estimation or other advanced techniques
+- Clarify requirements, needed hardware and goals for mini-project
 
 **Details:**
 
@@ -182,12 +187,12 @@
 
 ## **Fri**, Nov 28th 2025
 
-**Start:** 14:00
+**Start:** **9:30**
 **End:** 17:00
 
 **Content:**
 
-- Mini-Project
+- Working on the Mini-Project
 
 **Details:**
 
@@ -202,7 +207,7 @@
 
 **Content:**
 
-- Project
+- Working on the Mini-Project
 
 **Details:**
 
@@ -217,9 +222,9 @@
 
 **Content:**
 
-- Project
+- Working on the Mini-Project
 - Final presentation preparation
-- Final presentations 3 pm
+- Final presentations starting at **3 pm** (presence is mandatory for all, not just presenters)
 
 **Details:**
 
@@ -234,7 +239,7 @@
 
 **Content:**
 
-- Final presentations
+- Final presentations continued (presence is mandatory for all, not just presenters)
 
 **Details:**
 
