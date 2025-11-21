@@ -1,11 +1,14 @@
 // Define the GPIO pins where the LED is connected and the one for touch input
 const int ledPin = 26; // Change this to the pin you used
 const int touchPin = T6; // Change this to the pin you used
-boolean LED_OFF = false; // set the initial value for the LED
+bool LED_OFF = false; // set the initial value for the LED
 
 void setup() {
   Serial.begin(115200); // Initialize serial communication for debugging
   delay(1000);  // give me time to bring up serial monitor
+
+  // Initialize the touch pin as input
+  pinMode(touchPin, INPUT);
   
   //Optional: Set the threshold to 5% of the benchmark value. Only effective if threshold = 0.
   touchSetDefaultThreshold(5);
