@@ -18,12 +18,10 @@ Simple Python Example
 
 ````python
 # Example: drive_demo.py
-from gopigo3 import Robot
-gpg = Robot()
-
-# Drive forward 20 cm, then stop
-gpg.drive_cm(20)
-gpg.stop()
+import easygopigo3 as easy
+import time
+orienteer = easy.EasyGoPiGo3()
+orienteer.drive_cm(40)
 ````
 
 **Live Demo:**
