@@ -12,6 +12,7 @@ Hardware Overview
 - GoPiGo control board that connects to the Pi GPIO header.
 - Battery pack to power motors.
 
+[Full Hardware Specs](https://www.dexterindustries.com/GoPiGo/learning/hardware-port-description/)
 
 Simple Python Example
 
@@ -42,4 +43,4 @@ The instructions for your first project you can find here:
 
 [Orienteer](https://edu.modrobotics.com/course/view.php?id=16){target="_blank"}
 
-[Documentation](https://gopigo3.readthedocs.io/en/master/api-basic/structure.html#library-structure)
+GoPiGo [API Documentation](https://gopigo3.readthedocs.io/en/master/api-basic/structure.html#library-structure)
