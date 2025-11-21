@@ -41,3 +41,5 @@ You should see the GoPiGo control panel/Jupyter environment.
 The instructions for your first project you can find here:
 
 [Orienteer](https://edu.modrobotics.com/course/view.php?id=16){target="_blank"}
+
+[Documentation](https://gopigo3.readthedocs.io/en/master/api-basic/structure.html#library-structure)
