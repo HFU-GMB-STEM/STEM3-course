@@ -118,16 +118,22 @@
 
 ## **Mon**, Nov 24th 2025
 
-**Start:** 9:00
+**Start:** **9:30**
 **End:** 17:00
 
 **Content:**
 
-- Working with Robots
+- Theory image processing
+- OpenCV tutorials
+- Working with Robots (until lunch)
 
 **Details:**
 
-- [GoPiGo](tutorials/GoPiGo.md)
+- [OpenCV](tutorials/OpenCV.md)
+- Image processing theory slides:
+  - [Image basics](./theory/STEM3-ImageBasics.pdf)
+  - [Color spaces](./theory/STEM3-ColorSpaces.pdf)
+  - [Image transformations](./theory/STEM3-ImageTransformations.pdf)
 
 ---
 
@@ -144,7 +150,6 @@
 **Details:**
 
 - [OpenCV](tutorials/OpenCV.md)
-- Image processing theory: [Slides](./theory/STEM3-ImageProcessingTheory.pdf)
 
 ---
 

@@ -19,8 +19,16 @@ The following notebooks will guide you through various OpenCV functionalities:
 - [01 OpenCV Basics](./notebooks/OpenCV-01-basics.ipynb): Introduction to OpenCV, image loading, and basic operations including color space conversions and webcam access.
 - [02 OpenCV Image Transformations](./notebooks/OpenCV-02-image_transformations.ipynb): Image translation, rotation, resizing, and perspective transformations.
 - [03 OpenCV Camera Calibration](./notebooks/OpenCV-03-camera_calibration.ipynb): Camera calibration with chessboard patterns, distortion correction, and real-world measurements.
-- tbc
+- [04 OpenCV Filters](./notebooks/OpenCV-04-filters.ipynb): Filters and simple detections, apply spatial filters and extract structure with edges, contours, and connected components.
+- [05 OpenCV Object Detection](./notebooks/OpenCV-05-object_detection.ipynb): Human hand gesture detection with Google's [mediapipe library](https://github.com/google-ai-edge/mediapipe) and a pre-trained model.
+
+You can download the notebooks and run them in your local Jupyter environment. Additional datasets and images used in the tutorials are provided in the [`STEM3-images.zip`](notebooks/STEM3-images.zip) file.
 
 ## Additional Resources
 
-Image processing theory: [Slides](../theory/STEM3-ImageProcessingTheory.pdf)
+Image processing theory slides:
+
+- [Image basics](../theory/STEM3-ImageBasics.pdf)
+- [Color spaces](../theory/STEM3-ColorSpaces.pdf)
+- [Image transformations](../theory/STEM3-ImageTransformations.pdf)
+- [Image filtering](../theory/STEM3-ImageFilters.pdf)
