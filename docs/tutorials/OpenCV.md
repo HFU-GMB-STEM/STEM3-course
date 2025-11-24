@@ -14,7 +14,7 @@ The tutorials are provided as Jupyter Notebooks. To get started, ensure you have
 
 ## Notebooks
 
-The following notebooks will guide you through various OpenCV functionalities:
+The following notebooks will guide you through various OpenCV functionalities. Just right-click on the links below and choose "Save Link As..." to download them to your local machine. Then open them with Jupyter Notebook or in [Google Colab](https://colab.research.google.com/). If you use Google Colab, make sure to upload the additional datasets and images provided in the [`STEM3-images.zip`](notebooks/STEM3-images.zip) file to your Colab environment. And WebCam access in Colab requires some additional setup; please refer to [this example](https://colab.research.google.com/drive/1QnC7lV7oVFk5OZCm75fqbLAfD9qBy9bw).
 
 - [01 OpenCV Basics](./notebooks/OpenCV-01-basics.ipynb): Introduction to OpenCV, image loading, and basic operations including color space conversions and webcam access.
 - [02 OpenCV Image Transformations](./notebooks/OpenCV-02-image_transformations.ipynb): Image translation, rotation, resizing, and perspective transformations.
