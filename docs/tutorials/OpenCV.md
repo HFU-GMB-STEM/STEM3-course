@@ -33,3 +33,8 @@ Image processing theory slides:
 - [Color spaces](../theory/STEM3-ColorSpaces.pdf)
 - [Image transformations](../theory/STEM3-ImageTransformations.pdf)
 - [Image filtering](../theory/STEM3-ImageFilters.pdf)
+
+Videos shown in class:
+
+- [Perspective projection in 5 minutes by Graphics in 5 Minutes](https://www.youtube.com/watch?v=F5WA26W4JaM)
+- [Affine transformations in 5 minutes by Graphics in 5 Minutes](https://www.youtube.com/watch?v=AheaTd_l5Is)
