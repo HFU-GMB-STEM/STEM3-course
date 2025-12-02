@@ -38,3 +38,4 @@ Videos shown in class:
 
 - [Perspective projection in 5 minutes by Graphics in 5 Minutes](https://www.youtube.com/watch?v=F5WA26W4JaM)
 - [Affine transformations in 5 minutes by Graphics in 5 Minutes](https://www.youtube.com/watch?v=AheaTd_l5Is)
+- [Artificial intelligence, revealed by Yann LeCun (meta)](https://engineering.fb.com/2016/05/10/ai-research/ai-revealed/)
