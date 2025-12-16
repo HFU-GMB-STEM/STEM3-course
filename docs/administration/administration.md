@@ -15,3 +15,13 @@ Grading is based on **participation in workshops** (35%), **completion and quali
 ## Prerequisites
 
 Participants should have a Github account and be familiar with Git version control. Some assignment tasks will require the use of Git for submission and collaboration via Github classrooms. If you do not have a Github account and do not want to create one, please contact the instructors for alternative arrangements.
+
+## Project results
+
+| Project name | Team | Results | Link |
+| -------------|------|---------|------|
+| Robot control |Björn, Christian, Robin| Robots with gesture based controls, gestures are detected with webcam on PC, signal to robot via socket | [Github IndexMobile](https://github.com/M00St4r/IndexMobile) |
+| Robot path | Nelly, Jenny, Marcel, Justin | Robot follows a path with 3 waypoints, uses camera to detect obstacles (red objects) | [Github STEM3](https://github.com/NxNelly/STEM3) |
+| Gestures control LEDs | Thore, Mikhail | Gesture detection with media pipe to control image filters and LEDs via ESP32 | [GitHub STEM3 Abgabe](https://github.com/Mikhail-69420/STEM3_Abgabe/tree/main) |
+| Rock,Paper, Scissors with lie detector | Matej, Haru, Denise, Justus | ESP32 + mediapipe | [Github STEM3](https://github.com/DeniseAlicia/STEM3) |
+
