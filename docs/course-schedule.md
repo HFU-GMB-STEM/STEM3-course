@@ -248,6 +248,6 @@ Project planning:
 
 **Details:**
 
-- tbd
+- [Project results](./administration/administration.md#project-results)
 
 ---
